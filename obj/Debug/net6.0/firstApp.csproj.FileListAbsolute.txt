@@ -1,0 +1,15 @@
+C:\Users\UNSAAC\Desktop\porjects\firstApp\bin\Debug\net6.0\firstApp.exe
+C:\Users\UNSAAC\Desktop\porjects\firstApp\bin\Debug\net6.0\firstApp.deps.json
+C:\Users\UNSAAC\Desktop\porjects\firstApp\bin\Debug\net6.0\firstApp.runtimeconfig.json
+C:\Users\UNSAAC\Desktop\porjects\firstApp\bin\Debug\net6.0\firstApp.dll
+C:\Users\UNSAAC\Desktop\porjects\firstApp\bin\Debug\net6.0\firstApp.pdb
+C:\Users\UNSAAC\Desktop\porjects\firstApp\obj\Debug\net6.0\firstApp.csproj.AssemblyReference.cache
+C:\Users\UNSAAC\Desktop\porjects\firstApp\obj\Debug\net6.0\firstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNSAAC\Desktop\porjects\firstApp\obj\Debug\net6.0\firstApp.AssemblyInfoInputs.cache
+C:\Users\UNSAAC\Desktop\porjects\firstApp\obj\Debug\net6.0\firstApp.AssemblyInfo.cs
+C:\Users\UNSAAC\Desktop\porjects\firstApp\obj\Debug\net6.0\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\UNSAAC\Desktop\porjects\firstApp\obj\Debug\net6.0\firstApp.dll
+C:\Users\UNSAAC\Desktop\porjects\firstApp\obj\Debug\net6.0\refint\firstApp.dll
+C:\Users\UNSAAC\Desktop\porjects\firstApp\obj\Debug\net6.0\firstApp.pdb
+C:\Users\UNSAAC\Desktop\porjects\firstApp\obj\Debug\net6.0\firstApp.genruntimeconfig.cache
+C:\Users\UNSAAC\Desktop\porjects\firstApp\obj\Debug\net6.0\ref\firstApp.dll
